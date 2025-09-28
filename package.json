@@ -10,7 +10,7 @@
     "zod": "^4.1.11"
   },
   "scripts": {
-    "dev": "node --watch D:/xampp/htdocs/projects/Express/app.js",
+    "dev": "node --watch app.js",
     "start": "node app.js"
   }
 }
